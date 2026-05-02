@@ -1,4 +1,4 @@
-Gemini Clone (AI Chatbot UI)
+# Gemini Clone (AI Chatbot UI)
 
 📌 Description
 
